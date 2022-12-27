@@ -4,7 +4,7 @@ DIAGRAMACIÓN BASE:
 
 # Título 1
 
-Este es un ejemplo De 
+Este es ejemplo de titulo 1
 
 ## Título 2
 ### Título 3
